@@ -23,6 +23,12 @@ This project analyzes sales data to uncover trends, top products, customers, and
 
 - Jupyter Notbook
 
+### Dataset 
+- File name: Sales_data.xlsx
+- Format: Excel
+- Description: This Excel file contains sales transaction data including order date, product line, country, customer details, and sales amount.
+- Usage: The dataset is used for cleaning, explotatory data analysis, and visualization.
+
 ### 🔍 Analysis Performed
 - Data cleaning (missing values, duplicates)
 
